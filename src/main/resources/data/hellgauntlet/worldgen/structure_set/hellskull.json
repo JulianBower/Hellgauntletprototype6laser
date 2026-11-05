@@ -1,0 +1,12 @@
+{
+  "structures": [
+    { "structure": "hellgauntlet:hellskull", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 57,
+    "separation": 14,
+    "spread_type": "triangular",
+    "salt": 1066401731
+  }
+}

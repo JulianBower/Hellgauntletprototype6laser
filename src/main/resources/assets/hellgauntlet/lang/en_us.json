@@ -1,0 +1,9 @@
+{
+  "item.hellgauntlet.gauntlet_of_hell": "Gauntlet of Hell",
+  "item.hellgauntlet.void_orb": "Void Orb",
+  "entity.hellgauntlet.void_orb": "Void Orb",
+  "entity.hellgauntlet.void_sphere": "Void Sphere",
+  "entity.hellgauntlet.laser_beam": "Void Laser",
+  "key.hellgauntlet.toggle_laser": "Toggle Gauntlet Laser Mode",
+  "key.categories.hellgauntlet": "Gauntlet of Hell"
+}
